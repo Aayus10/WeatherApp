@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/WeatherApp/static/css/main.039d2610.css",
+    "main.js": "/WeatherApp/static/js/main.87f8e52d.js",
+    "static/js/787.aafc6230.chunk.js": "/WeatherApp/static/js/787.aafc6230.chunk.js",
+    "static/media/backgrnd.jpg": "/WeatherApp/static/media/backgrnd.92da96764fac6f97548d.jpg",
+    "static/media/haze.png": "/WeatherApp/static/media/haze.3ea7eb6e9f08908fb881.png",
+    "static/media/cloud.png": "/WeatherApp/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/WeatherApp/index.html",
+    "main.039d2610.css.map": "/WeatherApp/static/css/main.039d2610.css.map",
+    "main.87f8e52d.js.map": "/WeatherApp/static/js/main.87f8e52d.js.map",
+    "787.aafc6230.chunk.js.map": "/WeatherApp/static/js/787.aafc6230.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039d2610.css",
+    "static/js/main.87f8e52d.js"
+  ]
+}
